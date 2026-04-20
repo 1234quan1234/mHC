@@ -1,0 +1,5 @@
+name: mhc_27b
+base_arch: deepseek_moe
+hidden_size: 7168
+num_layers: 62
+num_experts: 160

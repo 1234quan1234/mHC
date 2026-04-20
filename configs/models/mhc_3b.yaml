@@ -1,0 +1,5 @@
+name: mhc_3b
+base_arch: deepseek_moe
+hidden_size: 4096
+num_layers: 32
+num_experts: 64

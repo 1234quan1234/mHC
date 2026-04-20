@@ -1,0 +1,6 @@
+suite: lm-eval-harness
+mode: zero-shot
+tasks:
+  - mmlu
+  - math
+  - bbh
